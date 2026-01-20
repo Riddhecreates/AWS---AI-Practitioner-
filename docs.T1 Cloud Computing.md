@@ -27,6 +27,7 @@ You must understand (not memorize):
 If you cannot answer these, the topic is not complete.
 
 A. Basic Understanding
+
 •	What is cloud computing in one sentence?
 - The delivery of computing resources like servers, storage, and software over the internet instead of using local physical machines.
 	
@@ -37,6 +38,7 @@ A. Basic Understanding
 - Before cloud computing, people stored data and ran software on on-premise servers and personal computers located inside offices, schools, or data centers. They had to have their own IT staff, buy hardware, install software manually, maintain servers and handle backups and failures themselves.
 
 B. On-Premise vs Cloud
+
 •	What is on-premise infrastructure?
 - IT resources such as servers, storage, and software that are physically located and managed at an organization’s own premises (office, school, or data center).
 	
@@ -48,9 +50,9 @@ B. On-Premise vs Cloud
 - The cloud provider (like AWS) manages the hardware, software updates, security, and infrastructure, allowing organizations to focus only on using the services.
 
 C. Service Models (Very Important)
+
 •	What is IaaS? (example)
-- Infrastructure as a Service- IaaS provides basic computing resources such as virtual servers, storage, and networking over the internet.
-You manage the operating system and applications, but the cloud provider manages the physical hardware. E.g. AWS EC2 (virtual servers)
+- Infrastructure as a Service- IaaS provides basic computing resources such as virtual servers, storage, and networking over the internet. You manage the operating system and applications, but the cloud provider manages the physical hardware. E.g. AWS EC2 (virtual servers)
 
 •	What is PaaS? (example)
 - Platform as a Service- PaaS provides a ready-made platform where you can build and run applications without managing servers or operating systems. E.g. AWS Elastic Beanstalk
@@ -63,13 +65,42 @@ No installation or maintenance is required from the user. E.g. Google classroom,
 - SaaS because no technical setup needed, easy for teachers and students to use, accessible on iPads and laptops, minimal maintenance and cost and it works well for classrooms and remote learning.
 
 D. Benefits of Cloud
-	•	Why is cloud scalable?
-	•	Why is cloud cost-effective?
-	•	Why is cloud useful for startups or small schools?
-	•	Why is cloud better for experimentation (like your project)?
+
+•	Why is cloud scalable?
+- Cloud is scalable because it allows resources to be increased or decreased instantly based on demand.
+This is possible because resources are virtual and managed by software, not physical hardware.
+It helps organizations handle growth efficiently while paying only for what they use.
+
+•	Why is cloud cost-effective?
+- Cloud is cost-effective because organizations pay only for the resources they use instead of buying expensive hardware upfront.
+It eliminates maintenance, upgrade, and infrastructure management costs.
+This reduces waste and allows better budgeting, especially for schools and startups.
+
+•	Why is cloud useful for startups or small schools?
+- Cloud is good for startups and schools because it has low upfront cost, easy scalability, and minimal maintenance.
+They can start small, grow when needed, and focus on their core work instead of managing IT infrastructure.
+
+•	Why is cloud better for experimentation (like your project)?
+- Cloud is better for experimentation because it allows quick setup, easy changes, and low-risk testing without heavy upfront investment.
+Projects like EduHelper can be built, tested, modified, or even stopped without wasting resources, making innovation faster and safer.
+
 
 E. Your Project Connection (Critical)
-	•	Why should your education system be cloud-based?
-	•	What happens if 1 teacher uses it vs 1,000 teachers?
-	•	Why cloud fits Japanese schools with iPads?
-	•	Why cloud is better than installing software on each device?
+
+•	Why should your education system be cloud-based?
+- EduHelper should be cloud-based because it needs to be accessible anywhere, scale with users, and update continuously without technical burden on schools.
+Cloud allows EduHelper to test ideas safely, analyze data centrally, and support many teachers and students without managing hardware.
+
+•	What happens if 1 teacher uses it vs 1,000 teachers?
+- If 1 teacher uses EduHelper, the cloud uses minimal resources and costs stay very low.
+If 1,000 teachers use it, the cloud automatically scales up to handle more users without downtime.
+In both cases, EduHelper works smoothly and you pay only for the resources actually used.
+
+•	Why cloud fits Japanese schools with iPads?
+- Cloud fits Japanese schools with iPads because cloud applications run through a browser or app, requiring no installation or complex setup.
+Students and teachers can access the system instantly on school iPads, and updates happen automatically without IT effort.
+
+•	Why cloud is better than installing software on each device?
+- Cloud is better than installing software on each device because it allows centralized access, updates, and data storage.
+There is no need to install, update, or fix software on every device, saving time and reducing technical issues.
+
