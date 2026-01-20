@@ -27,20 +27,40 @@ You must understand (not memorize):
 If you cannot answer these, the topic is not complete.
 
 A. Basic Understanding
-	•	What is cloud computing in one sentence?
-	•	What problem does cloud computing solve?
-	•	How did people store and run software before cloud?
+•	What is cloud computing in one sentence?
+- The delivery of computing resources like servers, storage, and software over the internet instead of using local physical machines.
+	
+•	What problem does cloud computing solve?
+- The problem of high cost, limited scalability, and complex maintenance of owning and managing physical IT infrastructure. It reduces cost, increases flexibility, and removes infrastructure management burden.
+	
+•	How did people store and run software before cloud?
+- Before cloud computing, people stored data and ran software on on-premise servers and personal computers located inside offices, schools, or data centers. They had to have their own IT staff, buy hardware, install software manually, maintain servers and handle backups and failures themselves.
 
 B. On-Premise vs Cloud
-	•	What is on-premise infrastructure?
-	•	Name 2 disadvantages of on-premise systems
-	•	How does cloud reduce maintenance work?
+•	What is on-premise infrastructure?
+- IT resources such as servers, storage, and software that are physically located and managed at an organization’s own premises (office, school, or data center).
+	
+•	Name 2 disadvantages of on-premise systems
+- High upfront cost – organizations must buy and install hardware and software before using them.
+- High maintenance effort – staff must handle updates, security, backups, and hardware failures themselves.
+
+•	How does cloud reduce maintenance work?
+- The cloud provider (like AWS) manages the hardware, software updates, security, and infrastructure, allowing organizations to focus only on using the services.
 
 C. Service Models (Very Important)
-	•	What is IaaS? (example)
-	•	What is PaaS? (example)
-	•	What is SaaS? (example)
-	•	Which model would a school MOST likely use and why?
+•	What is IaaS? (example)
+- Infrastructure as a Service- IaaS provides basic computing resources such as virtual servers, storage, and networking over the internet.
+You manage the operating system and applications, but the cloud provider manages the physical hardware. E.g. AWS EC2 (virtual servers)
+
+•	What is PaaS? (example)
+- Platform as a Service- PaaS provides a ready-made platform where you can build and run applications without managing servers or operating systems. E.g. AWS Elastic Beanstalk
+
+•	What is SaaS? (example)
+- Software as a Service- SaaS provides fully finished software applications that users can access through a browser or app.
+No installation or maintenance is required from the user. E.g. Google classroom, Zoom, Microsoft Teams etc.
+
+•	Which model would a school MOST likely use and why?
+- SaaS because no technical setup needed, easy for teachers and students to use, accessible on iPads and laptops, minimal maintenance and cost and it works well for classrooms and remote learning.
 
 D. Benefits of Cloud
 	•	Why is cloud scalable?
