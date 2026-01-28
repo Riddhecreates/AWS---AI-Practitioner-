@@ -82,19 +82,19 @@ They can start small, grow when needed, and focus on their core work instead of 
 
 •	Why is cloud better for experimentation (like your project)?
 - Cloud is better for experimentation because it allows quick setup, easy changes, and low-risk testing without heavy upfront investment.
-Projects like EduHelper can be built, tested, modified, or even stopped without wasting resources, making innovation faster and safer.
+Projects like RuBi-AI can be built, tested, modified, or even stopped without wasting resources, making innovation faster and safer.
 
 
 E. Your Project Connection (Critical)
 
 •	Why should your education system be cloud-based?
-- EduHelper should be cloud-based because it needs to be accessible anywhere, scale with users, and update continuously without technical burden on schools.
-Cloud allows EduHelper to test ideas safely, analyze data centrally, and support many teachers and students without managing hardware.
+- RuBi-AI should be cloud-based because it needs to be accessible anywhere, scale with users, and update continuously without technical burden on schools.
+Cloud allows RuBi-AI to test ideas safely, analyze data centrally, and support many teachers and students without managing hardware.
 
 •	What happens if 1 teacher uses it vs 1,000 teachers?
-- If 1 teacher uses EduHelper, the cloud uses minimal resources and costs stay very low.
+- If 1 teacher uses RuBi-AI, the cloud uses minimal resources and costs stay very low.
 If 1,000 teachers use it, the cloud automatically scales up to handle more users without downtime.
-In both cases, EduHelper works smoothly and you pay only for the resources actually used.
+In both cases, RuBi-AI works smoothly and you pay only for the resources actually used.
 
 •	Why cloud fits Japanese schools with iPads?
 - Cloud fits Japanese schools with iPads because cloud applications run through a browser or app, requiring no installation or complex setup.
