@@ -6,7 +6,7 @@ By the end of this topic, you must clearly understand:
 	•	Why privacy and security are critical in AI applications
 	•	How student and teacher data should be handled
 	•	How AWS helps ensure secure AI services
-	•	How EduHelper can implement safe data practices
+	•	How RuBi-AI can implement safe data practices
 
 ⸻
 
@@ -75,8 +75,8 @@ B. AWS Perspective
 
 C. Project Relevance
 
-•	How will EduHelper protect student survey responses?
-- EduHelper will protect student survey responses by minimizing data collection, encrypting responses during storage and transfer, and restricting access so only authorized systems or educators can view aggregated or necessary results, reducing the risk of misuse or exposure.
+•	How will RuBi-AI protect student survey responses?
+- RuBi-AI will protect student survey responses by minimizing data collection, encrypting responses during storage and transfer, and restricting access so only authorized systems or educators can view aggregated or necessary results, reducing the risk of misuse or exposure.
 
 •	How will teacher profile data remain confidential?
 - Teacher profile data will remain confidential by storing it securely, limiting access based on role and responsibility, and ensuring that personal details are not exposed publicly or shared beyond what is required for system functionality.
@@ -106,7 +106,7 @@ You must be able to explain to a non-technical teacher:
 4️⃣ Project Connection (Critical)
 
 You should clearly state:
-	•	EduHelper encrypts student and teacher data
+	•	RuBi-AI encrypts student and teacher data
 	•	Teachers control who sees their class data
 	•	AI uses anonymized feedback to improve lesson plans
 	•	AWS security features reduce risk of data breaches
