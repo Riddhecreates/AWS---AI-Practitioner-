@@ -5,7 +5,7 @@
 By the end of this topic, you must clearly understand:
 	•	How to design an AI system from idea to implementation
 	•	How AWS AI services and LLMs fit into a project workflow
-	•	How to plan EduHelper’s architecture for scalability, privacy, and usability
+	•	How to plan RuBi-AI’s architecture for scalability, privacy, and usability
 	•	How to align project design with real classroom constraints
 
 ⸻
@@ -56,8 +56,8 @@ A. Conceptual Understanding
 
 B. AWS Perspective
 
-•	Which AWS services fit each stage of the EduHelper system?
-- In an EduHelper-style system, AWS services are mapped to stages such as data input, processing, storage, and output, where front-end services handle user interaction, managed AI services handle analysis and generation, storage services retain data securely, and orchestration services connect all components into a single workflow under a shared architecture.
+•	Which AWS services fit each stage of the RuBi-AI system?
+- In an RuBi-AI-style system, AWS services are mapped to stages such as data input, processing, storage, and output, where front-end services handle user interaction, managed AI services handle analysis and generation, storage services retain data securely, and orchestration services connect all components into a single workflow under a shared architecture.
 
 •	How does AWS support integration between LLMs and other AI services?
 - AWS supports integration by providing managed APIs, SDKs, and service-to-service communication that allow large language models to work alongside other AI services such as analytics or recommendation components, enabling different models and tools to exchange data seamlessly within one system. An SDK (software development kit) is a collection of tools, libraries, and documentation that helps developers interact with a service more easily, allowing applications to call AWS services (including AI and LLM APIs) without building everything from scratch.
@@ -75,8 +75,8 @@ B. AWS Perspective
 
 C. Project Relevance
 
-•	How will EduHelper implement IPO for each lesson plan?
-- EduHelper will apply the Input–Process–Output model by clearly defining lesson inputs such as teacher goals and student context, processing them through AI analysis and pedagogical logic, and producing structured lesson plans or suggestions as outputs, which helps keep system logic transparent and easy to explain.
+•	How will RuBi-AI implement IPO for each lesson plan?
+- RuBi-AI will apply the Input–Process–Output model by clearly defining lesson inputs such as teacher goals and student context, processing them through AI analysis and pedagogical logic, and producing structured lesson plans or suggestions as outputs, which helps keep system logic transparent and easy to explain.
 
 •	How will teacher surveys, student mood, and content PDF be processed?
 - Teacher surveys, student mood indicators, and content PDFs will be collected as input data, normalized and analyzed by AI to identify patterns or key insights, and then combined during processing to generate recommendations that align teaching objectives with student needs.
@@ -95,7 +95,7 @@ C. Project Relevance
 3️⃣ Things You Should Be Able to Explain Simply
 
 You must be able to explain to a non-technical teacher:
-	•	EduHelper takes input (teacher, student, content), processes it using AI, and outputs lesson plans
+	•	RuBi-AI takes input (teacher, student, content), processes it using AI, and outputs lesson plans
 	•	Teachers adjust the suggestions based on their classroom needs
 	•	The system learns over time from feedback
 	•	AWS helps manage AI tasks without building models from scratch
@@ -106,7 +106,7 @@ You must be able to explain to a non-technical teacher:
 4️⃣ Project Connection (Critical)
 
 You should clearly state:
-	•	EduHelper’s architecture integrates AWS AI services, LLMs, and secure storage
+	•	RuBi-AI’s architecture integrates AWS AI services, LLMs, and secure storage
 	•	IPO model ensures systematic handling of inputs and outputs
 	•	Feedback loop enables adaptive lesson planning
 	•	Scalability ensures future growth across multiple schools and subjects
