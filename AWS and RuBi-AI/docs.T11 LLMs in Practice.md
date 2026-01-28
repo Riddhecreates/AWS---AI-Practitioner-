@@ -6,7 +6,7 @@ By the end of this topic, you must clearly understand:
 	•	What Large Language Models (LLMs) are and how they work
 	•	The difference between LLMs and traditional AI models
 	•	How AWS supports LLMs for beginners
-	•	How EduHelper can leverage LLMs for lesson plan generation and student engagement
+	•	How RuBi-AI can leverage LLMs for lesson plan generation and student engagement
 
 ⸻
 
@@ -71,20 +71,20 @@ B. AWS Perspective
 
 C. Project Relevance
 
-•	How can EduHelper use LLMs to generate daily or chapter-wise lesson plans?
-- EduHelper can send structured prompts to an LLM via Amazon Bedrock to generate suggested lesson plans for each day or chapter. The AI uses curriculum goals and topic inputs to produce organized outlines or activity suggestions, saving teachers planning time.
+•	How can RuBi-AI use LLMs to generate daily or chapter-wise lesson plans?
+- RuBi-AI can send structured prompts to an LLM via Amazon Bedrock to generate suggested lesson plans for each day or chapter. The AI uses curriculum goals and topic inputs to produce organized outlines or activity suggestions, saving teachers planning time.
 
 •	How can LLMs suggest alternative wording for teacher instructions or prompts?
 - LLMs can rewrite teacher instructions in simpler or clearer language. By providing a sample instruction as a prompt, the model generates multiple wording options. This helps teachers communicate concepts effectively to different student levels.
 
 •	How can LLMs summarize student feedback for teachers?
-- EduHelper can aggregate unstructured feedback from surveys, comments, or reflections and send it to an LLM for summarization. The output highlights key themes, sentiment trends, or common issues, allowing teachers to quickly grasp overall class understanding.
+- RuBi-AI can aggregate unstructured feedback from surveys, comments, or reflections and send it to an LLM for summarization. The output highlights key themes, sentiment trends, or common issues, allowing teachers to quickly grasp overall class understanding.
 
 •	Why is human oversight needed even when LLMs generate lesson content?
 - LLMs can make errors, misinterpret curriculum goals, or suggest inappropriate content. Teachers must review AI outputs to ensure accuracy, relevance, and fairness. Human oversight ensures accountability and prevents unintended consequences.
 
-•	How can fine-tuning LLMs help improve EduHelper’s recommendations over time?
-- Fine-tuning EduHelper’s LLM on classroom-specific data, past lesson adjustments, and feedback improves output relevance. Over time, the AI aligns better with the teacher’s style, student needs, and curriculum objectives, producing more practical suggestions.
+•	How can fine-tuning LLMs help improve RuBi-AI’s recommendations over time?
+- Fine-tuning RuBi-AI’s LLM on classroom-specific data, past lesson adjustments, and feedback improves output relevance. Over time, the AI aligns better with the teacher’s style, student needs, and curriculum objectives, producing more practical suggestions.
 
 ⸻
 
@@ -102,7 +102,7 @@ You must be able to explain to a non-technical teacher:
 4️⃣ Project Connection (Critical)
 
 You should clearly state:
-	•	EduHelper leverages LLMs to create adaptive, personalized lesson plans
+	•	RuBi-AI leverages LLMs to create adaptive, personalized lesson plans
 	•	LLMs analyze student surveys, teacher style, and class materials
 	•	AI generates suggestions, but teachers retain final control
 	•	Fine-tuning LLMs allows better alignment with Japanese classroom norms
