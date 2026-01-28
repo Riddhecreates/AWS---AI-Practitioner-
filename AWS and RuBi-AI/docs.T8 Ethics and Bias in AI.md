@@ -6,7 +6,7 @@ By the end of this topic, you must clearly understand:
 	•	Why ethics is critical in AI systems
 	•	How bias can appear in AI models
 	•	The importance of human judgment in AI outputs
-	•	How AWS and EduHelper ensure ethical AI use
+	•	How AWS and RuBi-AI ensure ethical AI use
 
 ⸻
 
@@ -72,8 +72,8 @@ B. AWS Perspective
 
 C. Project Relevance
 
-•	How will EduHelper avoid biased suggestions?
-- EduHelper avoids biased suggestions by using diverse, anonymized data and focusing on trend analysis instead of individual profiling. AI outputs are reviewed at an aggregate level, which reduces the risk of unfair conclusions. Using AWS managed services also limits hidden model manipulation.
+•	How will RuBi-AI avoid biased suggestions?
+- RuBi-AI avoids biased suggestions by using diverse, anonymized data and focusing on trend analysis instead of individual profiling. AI outputs are reviewed at an aggregate level, which reduces the risk of unfair conclusions. Using AWS managed services also limits hidden model manipulation.
 
 •	How do teacher overrides prevent unfair lesson plans?
 - Teacher overrides allow educators to review, adjust, or reject AI suggestions before implementation. This ensures contextual factors like class behavior or recent events are considered. Human judgment corrects AI limitations and prevents rigid or unfair lesson plans.
@@ -103,7 +103,7 @@ You must be able to explain to a non-technical teacher:
 4️⃣ Project Connection (Critical)
 
 You should clearly state:
-	•	EduHelper incorporates human-in-the-loop review
+	•	RuBi-AI incorporates human-in-the-loop review
 	•	Bias is minimized through diverse data and teacher oversight
 	•	Student and teacher privacy is protected at all times
 	•	AI provides suggestions, teachers make final decisions
