@@ -6,7 +6,7 @@ By the end of this topic, you must clearly understand:
 	•	How AI systems evaluate outputs and measure success
 	•	The importance of feedback for model improvement
 	•	How evaluation differs between exam theory and project application
-	•	How EduHelper can adapt lesson plans using feedback
+	•	How RuBi-AI can adapt lesson plans using feedback
 
 ⸻
 
@@ -73,11 +73,11 @@ B. AWS Perspective
 
 C. Project Relevance
 
-•	How will EduHelper collect teacher feedback?
-- EduHelper collects teacher feedback through simple review actions such as approving, modifying, or rejecting AI-suggested lesson plans. These actions are recorded as structured signals rather than personal opinions. This keeps feedback practical, low-effort, and safe for evaluation.
+•	How will RuBi-AI collect teacher feedback?
+- RuBi-AI collects teacher feedback through simple review actions such as approving, modifying, or rejecting AI-suggested lesson plans. These actions are recorded as structured signals rather than personal opinions. This keeps feedback practical, low-effort, and safe for evaluation.
 
 •	How will student comprehension inform AI suggestions?
-- Student comprehension is inferred from aggregated indicators such as quiz results, survey ratings, and engagement trends. EduHelper uses this data to detect patterns across lessons, not individual students. These trends help the AI suggest adjustments to pacing or content focus.
+- Student comprehension is inferred from aggregated indicators such as quiz results, survey ratings, and engagement trends. RuBi-AI uses this data to detect patterns across lessons, not individual students. These trends help the AI suggest adjustments to pacing or content focus.
 
 •	Why is evaluation needed before updating lesson plan logic?
 - Evaluation ensures that changes are based on evidence rather than assumptions. Without evaluation, AI may reinforce incorrect patterns or temporary noise in data. In education, this step prevents harmful or ineffective lesson changes.
@@ -86,7 +86,7 @@ C. Project Relevance
 - Feedback shows which lesson suggestions worked and which did not in real classrooms. Over time, repeated signals help the AI align suggestions more closely with actual teaching outcomes. This leads to gradual, controlled improvement rather than sudden shifts.
 
 •	How can AI suggest improvements without overriding teacher control?
-- EduHelper treats AI outputs as recommendations, not decisions. Teachers review and decide whether to apply suggestions. This human-in-the-loop design ensures accountability stays with educators while still benefiting from AI support.
+- RuBi-AI treats AI outputs as recommendations, not decisions. Teachers review and decide whether to apply suggestions. This human-in-the-loop design ensures accountability stays with educators while still benefiting from AI support.
 
 ⸻
 
@@ -104,7 +104,7 @@ You must be able to explain to a non-technical teacher:
 4️⃣ Project Connection (Critical)
 
 You should clearly state:
-	•	EduHelper uses both teacher and student feedback for adaptation
+	•	RuBi-AI uses both teacher and student feedback for adaptation
 	•	AI evaluates lessons indirectly through engagement and comprehension
 	•	Teachers approve changes before AI updates plans
 	•	Feedback ensures AI remains relevant to real classrooms
