@@ -35,7 +35,7 @@ You do not need all of them — but you must know what they do.
 
 - Amazon Comprehend analyzes written text to detect sentiment, key phrases, and recurring themes, turning unstructured feedback into structured insights. This allows large volumes of teacher feedback, student short responses, and class reflections to be reviewed objectively instead of manually. The system focuses on patterns and trends, not individual judgments, which makes it suitable and safe for education use.
 
-- For EduHelper, this means teachers can understand what is working and what is not across classes without reading every comment. Common issues, confusion points, or positive signals become visible and actionable. The AI supports lesson improvement and reflection, while teachers remain responsible for interpretation and decisions.
+- For RuBi-AI, this means teachers can understand what is working and what is not across classes without reading every comment. Common issues, confusion points, or positive signals become visible and actionable. The AI supports lesson improvement and reflection, while teachers remain responsible for interpretation and decisions.
 
 
 You must answer:
@@ -52,7 +52,7 @@ You must answer:
 
 🔹 Amazon Personalize
 
-- Amazon Personalize is a machine-learning–based recommendation service or system. It learns patterns from past behavior (what worked, what was chosen, what was skipped) and uses those patterns to suggest likely useful options in the future. It does not understand teaching or pedagogy—it predicts preferences based on data. The more interaction data it receives, the better its recommendations become. Amazon Personalize helps EduHelper suggest lesson styles, not decide them. It reduces trial-and-error and planning time, while teachers remain fully in control of final decisions.
+- Amazon Personalize is a machine-learning–based recommendation service or system. It learns patterns from past behavior (what worked, what was chosen, what was skipped) and uses those patterns to suggest likely useful options in the future. It does not understand teaching or pedagogy—it predicts preferences based on data. The more interaction data it receives, the better its recommendations become. Amazon Personalize helps RuBi-AI suggest lesson styles, not decide them. It reduces trial-and-error and planning time, while teachers remain fully in control of final decisions.
 
 
 You must answer
