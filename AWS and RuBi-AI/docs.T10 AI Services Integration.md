@@ -6,7 +6,7 @@ By the end of this topic, you must clearly understand:
 	•	What AWS AI services are available for beginners
 	•	How these services simplify AI tasks (no need to build models from scratch)
 	•	How to integrate AWS AI services into real applications
-	•	How EduHelper can use AWS AI services effectively
+	•	How RuBi-AI can use AWS AI services effectively
 
 ⸻
 
@@ -76,20 +76,20 @@ B. AWS Perspective
 
 C. Project Relevance
 
-•	Which AWS service can help EduHelper analyze student surveys?
-- Amazon Comprehend can analyze student survey text to detect sentiment, key phrases, and common themes. It works well with unstructured feedback collected from surveys. This allows EduHelper to identify overall learning trends without analyzing individual students.
+•	Which AWS service can help RuBi-AI analyze student surveys?
+- Amazon Comprehend can analyze student survey text to detect sentiment, key phrases, and common themes. It works well with unstructured feedback collected from surveys. This allows RuBi-AI to identify overall learning trends without analyzing individual students.
 
 •	Which AWS service can provide spoken versions of lesson plans?
 - Amazon Polly converts written lesson plans into natural-sounding speech. It can be used to create audio lessons or narration support. This improves accessibility and supports diverse learning needs.
 
-•	How can API calls connect AWS AI services to the EduHelper website?
-- API calls allow the EduHelper website to send data (such as feedback text) to AWS AI services and receive results. The website does not run AI models itself; it simply consumes responses. This keeps the system lightweight and scalable.
+•	How can API calls connect AWS AI services to the RuBi-AI website?
+- API calls allow the RuBi-AI website to send data (such as feedback text) to AWS AI services and receive results. The website does not run AI models itself; it simply consumes responses. This keeps the system lightweight and scalable.
 
 •	How do AWS services reduce the need to manually program AI logic?
 - AWS pre-built AI services already handle model training, tuning, and inference. Developers only send input data and interpret outputs. This removes the need to write complex AI logic from scratch.
 
 •	Which services can you integrate now, and which can be added later as the project scales?
-- Early integration can include Amazon S3, Amazon Comprehend, and Amazon Polly for core functionality. As EduHelper scales, services like Amazon Forecast or analytics tools can be added. AWS’s modular design supports gradual expansion without redesigning the system.
+- Early integration can include Amazon S3, Amazon Comprehend, and Amazon Polly for core functionality. As RuBi-AI scales, services like Amazon Forecast or analytics tools can be added. AWS’s modular design supports gradual expansion without redesigning the system.
 
 ⸻
 
@@ -107,7 +107,7 @@ You must be able to explain to a non-technical teacher:
 4️⃣ Project Connection (Critical)
 
 You should clearly state:
-	•	EduHelper can use Amazon Comprehend for analyzing student feedback
+	•	RuBi-AI can use Amazon Comprehend for analyzing student feedback
 	•	Polly can create audio for lessons or instructions
 	•	Translate can help multi-language classrooms
 	•	API integration connects the website to AWS AI services seamlessly
